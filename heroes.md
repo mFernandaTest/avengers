@@ -6,3 +6,4 @@
 * Capitán Marvel
 * Bruja escarlata
 * Vision
+* Viuda negra
