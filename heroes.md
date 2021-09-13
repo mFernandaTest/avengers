@@ -4,3 +4,5 @@
 * Black Widow
 * Capitán America
 * Capitán Marvel
+* Bruja escarlata
+* Vision
